@@ -1,5 +1,5 @@
 #
-#       Author: VIncent Gijsen
+#       Author: Vincent Gijsen
 #
 
 # Background milight connections
